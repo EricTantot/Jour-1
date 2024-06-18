@@ -1,0 +1,1 @@
+print(("A"*20)+("G"*40)) # Contrainte d'une ligne de code
